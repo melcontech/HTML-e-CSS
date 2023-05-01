@@ -1,0 +1,20 @@
+html {
+  font-family: Arial
+}
+p {
+  size: 20px;
+}
+a {
+  text-decoration: none;
+}
+.estado {
+  color: seagreen;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
